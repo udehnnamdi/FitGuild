@@ -1,0 +1,69 @@
+
+<% layout('layouts/boilerplate')%>
+<div class="row">
+    <h1 class="text-center">Edit Guildbase</h1>
+    <div class="col-md-6 offset-md-3">
+        <form action="/guildbases/<%=guildbase._id%>?_method=PUT" method="POST" novalidate class="validated-form"
+            enctype="multipart/form-data">
+            <div class="mb-3">
+                <label class="form-label" for="title">Title</label>
+                <input class="form-control" type="text" id="title" name="guildbase[title]"
+                    value="<%=guildbase.title %>" required>
+                <div class="valid-feedback">
+                    great!
+                </div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" for="location">Location</label>
+                <input class="form-control" type="text" id="location" name="guildbase[location]"
+                    value="<%=guildbase.location %>" required>
+                <div class="valid-feedback">
+                    great!
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="fee">Guildbase fee</label>
+                <div class="input-group">
+                    <span class="input-group-text" id="fee-label">€</span>
+                    <input type="text" class="form-control" id="fee" placeholder="0.00" aria-label="fee"
+                        aria-describedby="fee-label" name="guildbase[fee]" value="<%=guildbase.fee %>"
+                        required><div class="valid-feedback">
+                        great!
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="description">Description</label>
+                <textarea class="form-control" type="text" id="description" name="guildbase[description]"
+                    required><%= guildbase.description%></textarea>
+                <div class="valid-feedback">
+                    great!
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="form-file custom-file">
+                    <input type="file" class="form-file-input" id="image" name="image" multiple>
+                    <label class="form-file-label" for="image">
+                        <span class="form-file-text custom-file-label">Add more image(s)...</span>
+                        <span class="form-file-button">Browse</span>
+                    </label>
+                </div>
+            </div>
+            <div class="mb-3">
+                <% guildbase.images.forEach(function(img, i) {  %>
+                <img src="<%=img.thumbnail %>" class="img-thumbnail" alt="">
+                <div class="form-check-inline">
+                    <input type="checkbox" id="image-<%=i%>" name="deleteImages[]" value="<%=img.filename%>">
+                </div>
+                <label for="image-<%=i%>">Delete?</label>
+                <% })%>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-info">Update Guildbase</button>
+            </div>
+        </form>
+        <a href="/guildbases/<%= guildbase._id%>">Back To Campground</a>
+    </div>
+</div>
