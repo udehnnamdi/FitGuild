@@ -18,11 +18,17 @@ With the FitGuild app, users are able to connect with fitness meetups, fitness s
 
 ## Technologies
 Html 5
+
 Css 3
+
 Javascript
+
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
 
 
