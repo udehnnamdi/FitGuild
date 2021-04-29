@@ -36,6 +36,7 @@ Mongoose
 2. Run ~ Git Bash
 3. cd into the fitGuild folder
 4. Run ~ nodemon app.js
-5. Connect to localhost:3000 on your web browser, or [click here](#http://localhost:3000)
+5. Connect to localhost:3000 on your web browser, or 
+6. [click here]
 
 
