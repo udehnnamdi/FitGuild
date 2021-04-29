@@ -38,6 +38,6 @@ Mongoose
 4. Run ~ nodemon app.js
 5. Connect to localhost:3000 on your web browser, or 
 
-[good](scrit)
+[click here](http://localhost:3000/)
 
 
