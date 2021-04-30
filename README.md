@@ -1,7 +1,6 @@
 # FitGuild-Full-Stack
 ## TABLE OF CONTENTS
 * [Live Site](#Live-Site)
-* ![Fitness Application](https://ibb.co/ZHTk6sh)
 * [About](#About-FitGuild)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
@@ -13,6 +12,8 @@
 
 ## Live Site
 To access the FitGuild App, click on this link [FitGuild](https://shrouded-oasis-04621.herokuapp.com/)
+
+![Fitness Application](https://ibb.co/ZHTk6sh)
 
 ## About FitGuild
 With the FitGuild app, users are able to connect with fitness meetups, fitness studios and gyms across the globe. Users are also able to post and share their fitness meetup up groups, fitness studios, and gyms, as well as review the those of other users.
