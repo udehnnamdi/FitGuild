@@ -57,4 +57,7 @@ The app was created as a result of my personal affinity for fitness and a health
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
 
+## License
+[view here](License.txt)
+
 
