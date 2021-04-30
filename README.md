@@ -13,7 +13,7 @@
 ## Live Site
 To access the FitGuild App, click on this link [FitGuild](https://shrouded-oasis-04621.herokuapp.com/)
 
-![Fitness Application](https://i.ibb.co/1s2wfV9/Screenshot-24.png)
+[Fitness Application](https://i.ibb.co/1s2wfV9/Screenshot-24.png)
 
 ## About FitGuild
 With the FitGuild app, users are able to connect with fitness meetups, fitness studios and gyms across the globe. Users are also able to post and share their fitness meetup up groups, fitness studios, and gyms, as well as review the those of other users.
