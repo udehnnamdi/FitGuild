@@ -49,6 +49,7 @@ Mongoose
 
 ## Status 
 Completed
+
 The fitGuild app performs the CRUD functionality
 
 ## Why fitGuild
