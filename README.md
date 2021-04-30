@@ -42,7 +42,7 @@ Mongoose
 
 ## FitGuild Features
 - Access fitness meetup groups across the globe
-- Upload your fitness studio, gym, and fitness meetup groups
+- Upload your fitness studios, gyms, and fitness meetup groups
 - review the fitness groups posted by other users
 - Track your fitness location on the world map
 - connect with like-minded people
