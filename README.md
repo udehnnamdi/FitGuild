@@ -40,6 +40,19 @@ Mongoose
 4. Run ~ nodemon app.js
 5. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/)
 
+## FitGuild Features
+- Access fitness meetup groups across the globe
+- Upload your fitness studio, gym, and fitness meetup groups
+- review the fitness groups posted by other users
+- Track your fitness location on the world map
+- connect with like-minded people
+
+## Status 
+Completed
+The fitGuild app performs the CRUD functionality
+
+## Why fitGuild
+The app was created as a result of my personal affinity for fitness and a healthy lifestyle. Being a fitness enthusiast and someone who was formerly a fitness trainer, I came to the realization that one of the main issues faced by individuals who are starting out on the fitness path, is the lack of knowledge of accessible fitness studios, gyms, and meetup groups, where they can connect with like-minded po
 
 
 
