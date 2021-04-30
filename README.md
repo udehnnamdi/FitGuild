@@ -55,6 +55,6 @@ The fitGuild app performs the CRUD functionality
 The app was created as a result of my personal affinity for fitness and a healthy lifestyle. Being a fitness enthusiast and someone who was formerly a fitness trainer, I have come to the realization that one of the main issues faced by individuals who are starting out on the fitness path, is the lack of knowledge of accessible fitness studios, gyms, and meetup groups, where they can connect with like-minded people who are on the same journey. This app serves as a resource for those who are seeking to improve their health and fitness.
 
 ## Contact
-Created by [Nnamdi Udeh](www.linkedin.com/in/nnamdi-udeh-630a33185)
+Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
 
 
