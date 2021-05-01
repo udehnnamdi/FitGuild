@@ -16,7 +16,7 @@ To access the FitGuild App, click on this link [FitGuild](https://shrouded-oasis
 ![Fitness Application](https://i.ibb.co/1s2wfV9/Screenshot-24.png)
 
 ## About FitGuild
-With the FitGuild app, users are able to connect with fitness meetups, fitness studios, and gyms across the globe. Users are also able to post and share their fitness meetup up groups, fitness studios, and gyms, edit and update them, as well as review those of other users.
+With the FitGuild app, users are able to connect with fitness meetups, fitness studios, and gyms across the globe. Users are also able to post and share their fitness meetup groups, fitness studios, and gyms, edit and update them, as well as review those of other users.
 
 ## Technologies
 Html 5
